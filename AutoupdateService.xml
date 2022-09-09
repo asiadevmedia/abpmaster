@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updateFiles>
   <file path="SIPP.exe" url="http://localhost/SIPP.exe" lastver="1.1.0.3" size="2317312" needRestart="true" />
-  <file path="AutoUpdater.dll" url="http://localhost/AutoUpdater.dll" lastver="1.0.0.1" size="33280" needRestart="false" />
-  <file path="Autoupdater.config" url="http://localhost/Autoupdater.config" lastver="1.0.1" size="352" needRestart="false" />
+  <file path="Autoupdater.config" url="https://raw.githubusercontent.com/asiadevmedia/abpmaster/main/Autoupdater.config" lastver="1.0.1" size="352" needRestart="false" />
 </updateFiles>
