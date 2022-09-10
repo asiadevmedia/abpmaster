@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <updateFiles>
   <file path="SIPP.exe" url="https://raw.githubusercontent.com/asiadevmedia/abpmaster/main/SIPP.exe" lastver="1.1.0.3" size="2317312" needRestart="true" />
-  <file path="Autoupdater.config" url="https://raw.githubusercontent.com/asiadevmedia/abpmaster/main/Autoupdater.config" lastver="1.0.1" size="352" needRestart="false" />
 </updateFiles>
